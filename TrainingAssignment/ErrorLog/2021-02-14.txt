@@ -1,0 +1,42 @@
+------Info(2021-02-14 07:10:50.0199)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:User log-in successful.
+
+------Info(2021-02-14 07:10:52.6944)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:Display all product with details.
+
+------Info(2021-02-14 07:11:14.8004)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:The product is deleted with from database.
+
+------Info(2021-02-14 07:11:18.4612)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:Display all product with details.
+
+------Info(2021-02-14 07:14:43.4040)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:User log-in successful.
+
+------Info(2021-02-14 07:14:45.6840)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:Display all product with details.
+
+------Info(2021-02-14 07:14:54.5298)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:The product is deleted with from database.
+
+------Info(2021-02-14 07:14:56.2952)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:Display all product with details.
+
+------Error(2021-02-14 07:15:39.0631)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type:System.NullReferenceException |                             Exception Message:Object reference not set to an instance of an object. |                             Stack Trace: |                             Additional Info:Error while deleting data.
+
+------Info(2021-02-14 07:17:30.0025)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:All selected items are now deleted.
+
+------Info(2021-02-14 07:17:30.0413)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:Display all product with details.
+
+------Info(2021-02-14 07:18:47.7585)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:Display all product with details.
+
+------Info(2021-02-14 07:18:52.9839)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:The product is deleted with from database.
+
+------Info(2021-02-14 07:18:53.0150)-Machine Name:DESKTOP-809LIO6-
+                             Exception Type: |                             Exception Message: |                             Stack Trace: |                             Additional Info:Display all product with details.
+

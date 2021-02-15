@@ -1,0 +1,150 @@
+﻿@model List<TrainingAssignment.Products>
+
+@{
+    Layout = null;
+    <!--Web grid for display products details -->
+    WebGrid wb = new WebGrid(canPage: true, rowsPerPage: 3);
+    wb.Bind(source: Model, rowCount: ViewBag.TotalRows, autoSortAndPage: false);
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta name="viewport" content="width=device-width" />
+    <title>ProductList</title>
+    <!--Bootstrap CSS-->
+    <link href="~/Content/PagedList.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+</head>
+<body>
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <b class="main-heading" style="color:white; padding-right:15px;">Product Management</b>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <!--Dropdown for Add new product and product list-->
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Menu
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+
+                        <a class="dropdown-item" href="@Url.Action("AddProduct", "Display")">Add Product</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="@Url.Action("ProductList", "Display")">Product List</a>
+                    </div>
+                </li>
+            </ul>
+
+            <!--Logout Link-->
+            <form class="form-inline my-2 my-lg-0">
+                @Html.ActionLink("Log-out", "LogOut", "Authentication")
+            </form>
+        </div>
+    </nav>
+
+    <!--Search any product by Product name or Category-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light navbar-fixed-top">
+        <form class="form-inline my-2 my-lg-0">
+              <p>
+                    <b>Search Product</b>  @Html.TextBox("search", "", new { @class = "form-control" })
+                    
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit" value="search">Search</button>
+                </p>
+           
+        </form>
+    </nav>
+
+    <!--Display message for perticular action-->
+    @{ if (TempData["message"] != null)
+        {
+            <div class="alert alert-success alert-dismissible">
+                <a href="/Display/ProductList" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+                @TempData["message"]
+            </div>
+        }
+    }
+
+    <!--list of products view-->
+    <div class="container" style="background-color:#dcdcdc">
+        <h2>List of Added Products</h2>
+        <div>
+            <!--For selected item to delete-->
+            @using (Html.BeginForm("Selected_delete", "Display", FormMethod.Post, new { enctype = "multipart/form-data", onsubmit = "return confirm('are you sure ?')", id = "delete_product" }))
+            {
+                <!--Button for delete multiple items-->
+                <input type="submit" disabled="disabled" class="btn btn-default btn-danger" id="delete" data-toggle="modal" value="Delete Selected Products" name="Delete" style="float:right;margin-bottom:10px !important;" />
+                <!--Web Grid view for display all products-->
+                @wb.Table(
+                                
+                               tableStyle: "table table-responsive ",
+                               columns: wb.Columns
+
+                               (
+
+                                   wb.Column(columnName: "Name", header: "Product Name"),
+                                   wb.Column(columnName: "Category", header: "Category"),
+                                   wb.Column(columnName: "Price", header: "Price", canSort: false),
+                                   wb.Column(columnName: "Quantity", header: "Quantity", canSort: false),
+                                   wb.Column(columnName: "ShortDesc", header: "Product Description", canSort: false),
+                                   wb.Column("SmallImage", "Image", format:
+                                                                @<text>
+                                                                    <img src="@Url.Content(item.SmallImage)" alt="not found" height="130" width="150" />
+                                                                </text>, canSort: false),
+                 wb.Column("Id", "Operation", format:
+                                                                @<text>
+                                                                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) | @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                                                                </text>, canSort: false),
+                 wb.Column("Select", format:
+                                                                @<text>
+                                                                    <input type="checkbox" class="selected_checkbox" name="checkbox" value="@item.Id" onclick="_check()" />
+                                                                </text>, canSort: false)
+
+             )/*Ending of "wb.columns" bracket*/
+
+       )/*Ending of "@wb.Table" bracket*/
+
+            }<!--Ending of begin form bracket-->
+            <!--For pagination -->
+            <div class="row pagination">
+                <div class="pagination col-12 justify-content-center">
+                    @wb.PagerList(mode: WebGridPagerModes.All, paginationStyle: "pagination")
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Scripts-->
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery.validate.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <!--This script for delete selected item-->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $(".selected_checkbox").click(function () {
+                if ($("#delete_product input:checkbox:checked").length > 0) {
+
+                    document.getElementById("delete").disabled = false;
+                }
+                else {
+
+                    document.getElementById("delete").disabled = true;
+                }
+            });
+        });
+
+      
+    </script>
+   
+
+</body>
+</html>

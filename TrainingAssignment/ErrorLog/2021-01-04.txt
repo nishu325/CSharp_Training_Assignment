@@ -1,0 +1,392 @@
+------Info(2021-01-04 21:08:15.6860)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-04 21:08:18.3469)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:10:50.8101)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:10:50.8101)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:10:51.1573)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:12:54.9938)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:12:54.9938)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:12:55.3114)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:14:31.6380)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:14:31.6380)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:14:31.7490)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:16:05.2090)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:16:05.2090)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:16:05.3243)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:17:05.4940)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:17:05.4940)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:17:05.6070)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:18:18.3298)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:18:18.3298)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:18:18.6449)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:19:46.7448)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:19:46.7448)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:19:47.0937)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:20:56.8399)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Small image stored with its ImagePath.
+
+------Info(2021-01-04 21:20:56.8399)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Large image stored with its ImagePath.
+
+------Info(2021-01-04 21:20:56.8399)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:New product added by user.
+
+------Info(2021-01-04 21:21:11.9967)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:21:26.9288)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:21:32.1313)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:21:38.8313)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:21:41.2725)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:21:43.1795)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:21:44.7674)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:21:53.2751)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:22:38.3209)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-04 21:24:33.2507)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-04 21:24:35.7763)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:25:15.9841)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:25:34.9668)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:26:43.9697)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:27:38.7419)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:27:46.4361)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:27:48.8541)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:27:50.9871)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:27:51.9656)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:27:59.9505)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-04 21:28:03.2813)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:28:37.4536)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-04 21:28:39.1853)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:28:41.7867)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:28:45.3515)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:28:50.4444)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:28:56.0728)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:29:23.7663)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:29:33.9393)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-04 21:30:02.5691)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+

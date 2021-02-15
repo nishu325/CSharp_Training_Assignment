@@ -1,0 +1,294 @@
+------Info(2021-01-05 12:42:26.5327)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-05 12:44:13.6170)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:47:18.1723)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:49:24.4463)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Details of product updated into database.
+
+------Info(2021-01-05 12:49:24.4785)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:49:36.7610)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:49:40.3290)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:49:56.0855)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-05 12:49:59.2085)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:50:17.8115)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:50:33.4754)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Details of product updated into database.
+
+------Info(2021-01-05 12:50:33.4998)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:50:42.7757)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:54:04.2870)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-05 12:54:07.3161)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:55:37.9420)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:55:45.7482)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Details of product updated into database.
+
+------Info(2021-01-05 12:55:45.7680)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:55:54.6316)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:56:18.8962)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:56:31.9467)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Details of product updated into database.
+
+------Info(2021-01-05 12:56:31.9667)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:56:37.0111)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 12:58:47.2741)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:58:55.4929)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Details of product updated into database.
+
+------Info(2021-01-05 12:58:55.5155)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 12:59:00.2739)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 13:00:13.4994)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-05 13:00:16.4439)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 13:00:18.4446)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 13:00:30.8460)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Details of product updated into database.
+
+------Info(2021-01-05 13:00:30.8653)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 13:00:39.2680)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 13:01:33.5143)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
+------Info(2021-01-05 13:01:36.7917)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 13:01:37.8418)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 13:01:46.9723)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Details of product updated into database.
+
+------Info(2021-01-05 13:01:46.9977)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Get all the details of selected product for Edit their details inside (Get) method.
+
+------Info(2021-01-05 13:01:50.4194)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 13:08:42.6614)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:All selected items are now deleted.
+
+------Info(2021-01-05 13:08:42.7052)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:Display all product with details.
+
+------Info(2021-01-05 17:22:55.9364)-Machine Name:DESKTOP-809LIO6-
+                       
+     Exception Type: |                       
+     Exception Message: |                       
+     Stack Trace: |                       
+     Additional Info:User log-in successful.
+
